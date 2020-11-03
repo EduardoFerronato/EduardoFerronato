@@ -1,7 +1,17 @@
-### Hi there 👋
+# Eduardo Ferronato :man_technologist:
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/EduardoFerronato/)](https://www.linkedin.com/in/EduardoFerronato/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:edu.fe.guin@gmail.com)](mailto:edu.fe.guin@gmail.com)
+
+> Estudante
+
+> Aprendento desenvolvimento em NodeJS, ReactJS e ReactNative
+
+> Participando de um desenvolvimento de aplicativo para TRADER
+
+> Entusiasta de tecnologia
 
 <!--
-**EduardoFerronato/EduardoFerronato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**EduardoFerronato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
