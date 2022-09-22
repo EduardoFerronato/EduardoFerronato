@@ -4,9 +4,13 @@
 
 - Estudante de Matemática(PUCPR)📚
 
-- Desenvolvendo em NodeJS, ReactJS, NextJS e ChakraUI 
+- Desenvolvendo em NodeJS, ReactJS, NextJS e ChakraUI (TypeScript)
 
-- Experiencia com essas ferramentas - Projeto: [dinamicabalanceamento.com.br](https://www.dinamicabalanceamento.com.br/)
+- Experiência com essas ferramentas - Projeto: [dinamicabalanceamento.com.br](https://www.dinamicabalanceamento.com.br/)
+
+- Experiência com ReactNative
+
+- Participei de algumas semanas da Rocketseat como a Semana Omnistack e NextLevelWeek
 
 - Entusiasta de tecnologia💻
 
