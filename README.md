@@ -8,7 +8,7 @@
 
 - Experiência com essas ferramentas - Projeto: [dinamicabalanceamento.com.br](https://www.dinamicabalanceamento.com.br/)
 
-- Experiência com ReactNative
+- Experiência com ReactNative - Projeto: [estrader.com.br](https://estrader.com.br)
 
 - Participei de algumas semanas da Rocketseat como a Semana Omnistack e NextLevelWeek
 
