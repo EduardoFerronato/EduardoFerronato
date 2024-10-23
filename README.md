@@ -4,9 +4,11 @@
 
 - Estudante de Matemática(PUCPR)📚
 
-- Desenvolvendo em NodeJS, ReactJS, NextJS e ChakraUI (TypeScript)
+- Desenvolvendo em NodeJS, ReactJS, NextJS e TailwindCSS (TypeScript)        
 
-- Experiência com essas ferramentas -
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoferronato&layout=compact&theme=dracula)
+
+- Experiência com essas ferramentas:
   - Projetos:
     - [dinamicabalanceamento.com.br](https://www.dinamicabalanceamento.com.br/)
     - [invoicer.tech](https://www.invoicer.tech/)
