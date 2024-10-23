@@ -14,7 +14,7 @@
 
 - Experiência com ReactNative - Projeto: [estrader.com.br](https://estrader.com.br)
 
-- Participei de algumas semanas da Rocketseat como a Semana Omnistack e NextLevelWeek
+- Participei de algumas semanas da Rocketseat como a Semana Omnistack e algumas NextLevelWeek
 
 - Entusiasta de tecnologia💻
 
