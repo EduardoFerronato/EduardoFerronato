@@ -6,7 +6,11 @@
 
 - Desenvolvendo em NodeJS, ReactJS, NextJS e ChakraUI (TypeScript)
 
-- Experiência com essas ferramentas - Projeto: [dinamicabalanceamento.com.br](https://www.dinamicabalanceamento.com.br/)
+- Experiência com essas ferramentas -
+  - Projetos:
+    - [dinamicabalanceamento.com.br](https://www.dinamicabalanceamento.com.br/)
+    - [invoicer.tech](https://www.invoicer.tech/)
+    - [graydigital.com](https://graydigital.com/)
 
 - Experiência com ReactNative - Projeto: [estrader.com.br](https://estrader.com.br)
 
