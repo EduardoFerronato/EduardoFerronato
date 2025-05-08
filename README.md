@@ -2,7 +2,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/EduardoFerronato/)](https://www.linkedin.com/in/EduardoFerronato/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:edu.fe.guin@gmail.com)](mailto:edu.fe.guin@gmail.com)
 
-- Estudante de Matemática(PUCPR)📚
+- Estudante de Análise e Desenvolvimento de Sistemas(Fasipe)📚
 
 - Desenvolvendo em NodeJS, ReactJS, NextJS e TailwindCSS (TypeScript)        
 
