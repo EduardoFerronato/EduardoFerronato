@@ -6,7 +6,6 @@
 
 - Desenvolvendo em NodeJS, ReactJS, NextJS e TailwindCSS (TypeScript)        
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoferronato&layout=compact&theme=dracula)
 
 - Experiência com essas ferramentas:
   - Projetos:
