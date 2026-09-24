@@ -11,7 +11,7 @@
   - Projetos:
     - [dinamicabalanceamento.com.br](https://www.dinamicabalanceamento.com.br/)
     - [invoicer.tech](https://www.invoicer.tech/)
-    - [graydigital.com](https://graydigital.com/)
+    - [ferronatoagency.com](https://ferronatoagency.com/)
 
 - Experiência com ReactNative - Projeto: [estrader.com.br](https://estrader.com.br)
 
