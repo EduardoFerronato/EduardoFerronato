@@ -10,7 +10,6 @@
 - Experiência com essas ferramentas:
   - Projetos:
     - [dinamicabalanceamento.com.br](https://www.dinamicabalanceamento.com.br/)
-    - [invoicer.tech](https://www.invoicer.tech/)
     - [ferronatoagency.com](https://ferronatoagency.com/)
 
 - Experiência com ReactNative - Projeto: [estrader.com.br](https://estrader.com.br)
